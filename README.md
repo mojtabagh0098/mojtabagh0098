@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-- 🔭 I’m currently working on https://github.com/mojtabagh0098/Diyablog
-- 🌱 I’m currently learning Laravel <!-- - 👯 I’m looking to collaborate on Web Development - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on Naghshineh company
+- 🌱 I’m a Web Developer
+- 👯 I’m looking to collaborate on Web Development <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about PHP
 - 📫 You can contact me at mojtabagh0098@gmail.com
 <!--
