@@ -66,6 +66,4 @@ Here are some ideas to get you started:
 <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">                                                                                        
 <img src="https://avatars.githubusercontent.com/u/73666563?v=4" width=40 height=40></a>                                                                                                                                               
 </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mojtabagh0098&label=Profile%20Views&color=1&icon=1&pretty=true" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=mojtabagh0098" />
